@@ -1,0 +1,12 @@
+transaction_id,user_id,amount,category
+201,10,600.0,Electronics
+202,11,250.0,Clothing
+203,12,100.0,Groceries
+204,13,1200.0,Furniture
+205,14,700.0,Electronics
+206,15,1500.0,Luxury
+207,16,450.0,Groceries
+208,17,300.0,Clothing
+209,18,900.0,Electronics
+210,19,1100.0,Furniture
+211,20,650.0,Luxury
